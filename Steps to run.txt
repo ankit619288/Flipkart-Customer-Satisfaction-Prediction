@@ -1,0 +1,4 @@
+Steps to run 
+
+cd /d "C:\ankit project\Flipkart Customer Satisfaction Prediction\Flipkart_App"
+py -m streamlit run app.py
